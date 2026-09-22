@@ -1,6 +1,6 @@
-# Discover NSI
+# Discover STI2D SIN
 
-Landing page en français consacrée à la spécialité Numérique et Sciences Informatiques au lycée. Un document unique se transforme entre neuf directions artistiques : Flat Design, Material Design, skeuomorphisme, neumorphisme, glassmorphisme, brutalisme, minimalisme, maximalisme et typographique.
+Landing page en français consacrée à la spécialité STI2D SIN (Systèmes d'Information et Numérique) au lycée. Un document unique se transforme entre neuf directions artistiques : Flat Design, Material Design, skeuomorphisme, neumorphisme, glassmorphisme, brutalisme, minimalisme, maximalisme et typographique.
 
 ## Aperçu local
 
@@ -24,10 +24,10 @@ Un lien d’évitement, une structure de titres, des annonces de changement de s
 
 ## Contenu et vérifications
 
-Les origines, les horaires, la démarche de projet et le programme ont été vérifiés avec les sources du ministère et d’Éduscol. Les parcours après le bac renvoient vers Onisep. Les six cartes de programme sont une synthèse des deux années, pas une reproduction des rubriques officielles. Les projets présentés sont des possibilités, selon les choix pédagogiques et l’équipement du lycée.
+Les origines, les horaires, la démarche de projet et le programme ont été vérifiés avec les sources du ministère et d’Éduscol pour la série STI2D. Les parcours après le bac (BUT, BTS, Prépa TSI) renvoient vers Onisep. Les six cartes de programme sont une synthèse des axes technologiques de la spécialité. Les projets présentés illustrent des réalisations types (IoT, robotique, systèmes embarqués), selon les choix pédagogiques et l’équipement du lycée.
 
 Vérifications effectuées dans le navigateur : neuf styles, tailles de 320 à 1440 pixels, absence de débordement horizontal, contenu identique, un seul style sélectionné, fermeture au clavier et retour du focus. Relecture indépendante du code et des contrastes des palettes ; corrections des problèmes observés. Il ne s’agit pas d’une certification WCAG complète.
 
 ## Hébergement
 
-La configuration Sites figure dans `.openai/hosting.json`. Domaine cible : `discover.nsi.xyz`. Le raccordement du domaine dépend de sa configuration DNS ; un aperçu hébergé ne modifie pas ces enregistrements.
+La configuration Sites figure dans `.openai/hosting.json`. Domaine cible : `sti2d.sin.xyz`. Le raccordement du domaine dépend de sa configuration DNS ; un aperçu hébergé ne modifie pas ces enregistrements.
